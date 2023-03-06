@@ -38,4 +38,4 @@ As a freelance web developer, I worked with clients from diverse industries and 
 
 ## Contact
 
-If you have any questions or would like to discuss a project, feel free to reach out to me at [faruk.ahmed@email.com](mailto:faruk.ahmed@email.com). I'm always open to new opportunities and collaborations.
+If you have any questions or would like to discuss a project, feel free to reach out to me at [spurno@icloud.com](mailto:spurno@icloud.com). I'm always open to new opportunities and collaborations.
