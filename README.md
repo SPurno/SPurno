@@ -1,4 +1,4 @@
-# Faruk Ahmed - Web Developer
+# Faruk Ahmed - Web Application Developer, Advertising Animator, and Game Builder.
 
 Hello there! I'm Faruk Ahmed, a web developer with 5 years of experience in building beautiful and responsive web applications. I'm passionate about programming and love to work on challenging projects that push me to learn and grow. Buy Animation for your beautiful projects. Visit https://spurno.github.io
 
