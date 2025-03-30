@@ -1,4 +1,4 @@
-**Multimedia & Graphics Specialist, Web Application Developer, Advertising Animator, and Game Builder **  
+## Multimedia & Graphics Specialist, Web Application Developer, Advertising Animator, and Game Builder
 📍 Dhanmondi 32, Dhaka 1205, Bangladesh  
 📞 +8801521211774 | 📧 spurno@icloud.com  
 🌐 [Portfolio](https://stock.adobe.com/contributor/211977281/SPurnoAnimation) | 💼 [LinkedIn](https://linkedin.com/in/spurno)  
