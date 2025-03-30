@@ -1,40 +1,76 @@
-# Faruk Ahmed - Web Application Developer, Advertising Animator, and Game Builder.
+**Multimedia & Graphics Specialist, Web Application Developer, Advertising Animator, and Game Builder **  
+📍 Dhanmondi 32, Dhaka 1205, Bangladesh  
+📞 +8801521211774 | 📧 spurno@icloud.com  
+🌐 [Portfolio](https://stock.adobe.com/contributor/211977281/SPurnoAnimation) | 💼 [LinkedIn](https://linkedin.com/in/spurno)  
 
-Hello there! I'm Faruk Ahmed, a web developer with 5 years of experience in building beautiful and responsive web applications. I'm passionate about programming and love to work on challenging projects that push me to learn and grow. Buy Animation for your beautiful projects. Visit https://spurno.github.io
+---
 
-## Skills
+## 👨💻 Professional Summary  
+Passionate Multimedia & Graphics professional with **7+ years** of cross-industry experience as an Advertiser in Architectural Firm, E-commerce, Software Development firm. Founder of an international animation studio on AdobeStock and Shutterstock. Proven expertise in web development, animation, and digital solutions.
 
-- HTML/CSS
-- JavaScript
-- Node.js
-- Express.js
-- MySQL
-- MongoDB
+---
 
-## Work Experience
+## 🚀 Work Experience  
 
-### Web Developer at Asia Collection Ltd (2018 - 2020)
+### **Web Developer & Digital Marketer**  
+**Studio Dhola Ltd.** (Dhanmondi, Dhaka) | *2022–2024*  
+- Developed custom websites and software solutions.  
+- Led digital marketing campaigns and lead generation strategies.
+- Provide manpower solutions.
 
-At Asia Collection Ltd, I worked on a variety of projects, including e-commerce websites, content management systems, and social media platforms. My responsibilities included:
+### **Web Developer & Designer**  
+**Onward Developers Limited** (Mirpur, Dhaka) | *2022–2023*  
+- Designed advertising materials and managed digital marketing campaigns.  
+- Provided sales support and optimized client engagement.  
 
-- Developing and maintaining front-end interfaces using HTML/CSS and JavaScript frameworks such as React
-- Building back-end APIs using Node.js and Express.js
-- Integrating databases such as MySQL and MongoDB
-- Collaborating with cross-functional teams to ensure project success
-- Conducting code reviews and testing to ensure high-quality code
+### **Software & E-Commerce Developer**  
+**Asia Collection Ltd.** (New Market, Dhaka) | *2019–2020*  
+- Built custom Point-of-Sale (POS) systems.  
+- Managed end-to-end e-commerce platform operations.  
 
-### Freelance Web Developer (2020 - 2022)
+---
 
-As a freelance web developer, I worked with clients from diverse industries and created custom web applications that met their specific needs. My responsibilities included:
+## Education  
 
-- Collaborating with clients to understand their business requirements and create project specifications
-- Developing and maintaining front-end and back-end code using various programming languages and frameworks
-- Testing and debugging code to ensure high-quality deliverables
-- Communicating project status and progress to clients
+### **B.Sc. in Computer Science & Engineering**  
+**Daffodil International University** | *2014–2018*  
 
-## Education
 
-- Bachelor of Computer Science & Engineering (CSE), Daffodil International University (2018)
+### **Higher Secondary School Certificate**  
+**Nowabganj Govt. College** | *2010–2012*  
+
+
+### **Secondary School Certificate**  
+**Nabarun Bidup Niketan** | *2010*  
+
+---
+
+## 💻 Technical Skills  
+- **Programming**: Web Development, Android Development, WebGL, JavaScript 3D library.  
+- **Design**: Animation, Web Animation, Illustration, Motion Graphics 
+- **Marketing**: SEO, Digital Advertising, Lead Generation.  
+- **Tools**: GitHub, VS Code, Adobe After Effects,
+
+---
+
+## 🌐 Open Source & Portfolios  
+- **GitHub**: [github.com/SPurno](https://github.com/SPurno)  
+- **Stock Contributions**:  
+  - [AdobeStock Portfolio](https://stock.adobe.com/contributor/211977281/SPurnoAnimation)  
+  - [Shutterstock Portfolio](https://www.shutterstock.com/g/SPurnoAnimation)  
+
+---
+
+## 🗣️ Languages  
+- **Bangla**: Native  
+- **English**: Professional Proficiency  
+- **Hindi**: Conversational  
+
+---
+
+## 🔥 Passion Projects  
+- Creating stock animations for AdobeStock and Shutterstock.  
+- Freelance animation projects via Upwork.  
 
 ## Contact
 
